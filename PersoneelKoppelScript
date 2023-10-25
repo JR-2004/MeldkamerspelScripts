@@ -5,7 +5,6 @@
 // @license     BSD-3-Clause
 // @author      BOS-Ernie & JR04
 // @description Koppelt het maximale aantal personeel aan een voertuig. Script: BOS_Ernie. Vertaling naar Nederlands: JR04
-// @match       https://*.leitstellenspiel.de/vehicles/*/zuweisung
 // @match       https://*.meldkamerspel.com/vehicles/*/zuweisung
 // @icon        https://www.google.com/s2/favicons?sz=64&domain=leitstellenspiel.de
 // @run-at      document-idle
