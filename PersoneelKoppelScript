@@ -153,8 +153,6 @@
         return "[]";
       case 12: //TST-NB 8/9
         return "[]";
-      case 13: //SW 1000
-        return "[]";
       case 14: //TST-NB 6/7
         return "[]";
       case 15: //TST-NB 4/5
@@ -287,14 +285,10 @@
         return "[]"
       case 79: //RB-G
         return "[]";
-      case 80: //SEK - MTF
-        return "police_sek";
       case 81: //DA-RWS
         return "technical_aid";
       case 82: //DM-RWS
         return "technical_aid";
-      case 83: //GW-Werkfeuerwehr
-        return "werkfeuerwehr";
       case 84: //Waterwerper
         return "police_wasserwerfer";
       case 85: //FBO-Heli
@@ -322,34 +316,6 @@
       case 96: //Quad-USAR
         return "[]";
       case 97: //DB-Speurhonden
-        return "[]";
-      case 98: //Zivilstreifenwagen
-        return "criminal_investigation";
-      case 99: //LKW 7 Lbw
-        return "water_damage_pump";
-      case 100: //MLW 4
-        return "water_damage_pump";
-      case 103: //FuStW (DGL)
-        return "police_service_group_leader";
-      case 104: //GW-L1
-        return "[]";
-      case 105: //GW-L2
-        return "[]";
-      case 106: //MTF-L
-        return "[]";
-      case 107: //LF-L
-        return "[]";
-      case 109: //MzGW SB
-        return "heavy_rescue";
-      case 114: //GW-Lüfter
-        return "[]";
-      case 121: //GTLF
-        return "[]";
-      case 122: //LKW 7 Lbw (FGr E)
-        return "thw_energy_supply";
-      case 123: //LKW 7 Lbw (FGr WP)
-        return "water_damage_pump";
-      case 124: //MTW-OV
         return "[]";
     }
   }
